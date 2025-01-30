@@ -1,4 +1,9 @@
+/* OVERIDE a Bootstrap CLASS*/
 .col {
     overflow: hidden;
     height: 5rem;
+}
+
+.text-primary {
+    color: purple;
 }
